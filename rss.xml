@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SweetCarolineFilm]]></title>
         <description><![CDATA[SweetCarolineFilm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sweetcarolinefilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 14:52:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 14:54:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sweetcarolinefilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/152757954</p>]]></description>
-            <link>undefinedhttpsvimeocom152757954/index.html</link>
+            <link>https://thegrid.ai/sweetcarolinefilm/httpsvimeocom152757954/index.html</link>
             <guid isPermaLink="false">ccb132d7-74f4-4ac7-b43d-f35dcddd3636</guid>
-            <pubDate>Fri, 15 Apr 2016 14:52:57 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 14:54:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
