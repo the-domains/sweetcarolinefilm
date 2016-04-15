@@ -1,0 +1,28 @@
+name: SweetCarolineFilm
+favicon: null
+layout_spectrum: 0.5893143282737583
+typography_spectrum: 0.3625952764414251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7428462258540094
+  lightness: 0.5703625013120472
+  saturation: 0.764088349416852
+  rhythmicContrast: 0.5889516184106469
+purpose: []
